@@ -1,5 +1,7 @@
 # nexboard-api-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/schul-cloud/nexboard-api-js.svg)](https://greenkeeper.io/)
+
 ## Useage
 
 ```javascript
